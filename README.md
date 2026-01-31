@@ -134,14 +134,13 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+- GitHub: [@eagmarques](https://github.com/eagmarques)
+- LinkedIn: [Eduardo Marques](https://linkedin.com/in/eagmarques)
 
 ## 🙏 Agradecimentos
 
 - [Sean Miller](https://www.kaggle.com/thedevastator) pelo dataset do Kaggle
 - Billboard pela fonte original dos dados
-- Spotify pela API de busca
 
 ---
 
