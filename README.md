@@ -133,7 +133,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Autor
 
-**Seu Nome**
+Eduardo Abras Gomes Marques
 - GitHub: [@eagmarques](https://github.com/eagmarques)
 - LinkedIn: [Eduardo Marques](https://linkedin.com/in/eagmarques)
 
@@ -145,14 +145,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
-```
+
 
 ---
 
-### 5.4 Criar arquivo `LICENSE`
+### `LICENSE`:
 
-Crie o arquivo `LICENSE`:
-```
 MIT License
 
 Copyright (c) 2026 [Seu Nome]
