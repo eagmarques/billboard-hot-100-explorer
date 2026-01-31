@@ -108,6 +108,9 @@ billboard-app/
 ### Resultados do Chart
 ![Resultados](docs/screenshot-results.png)
 
+## Resultados Final no Streamlit
+![App Billboard Hot 100 Explorer](https://billboard-hot-100-explorer.streamlit.app/)
+
 ## 🚀 Melhorias Futuras
 
 - [ ] Adicionar gráficos de evolução de músicas ao longo do tempo
